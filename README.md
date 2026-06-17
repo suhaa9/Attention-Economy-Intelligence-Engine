@@ -70,7 +70,7 @@ NumPy
 PyTrends
 Prophet
 Power BI
-Google Colab -
+Google Colab
 
 # Project Screenshots -
 <img width="1917" height="1017" alt="Screenshot 2026-06-17 125740" src="https://github.com/user-attachments/assets/ddc17b18-0592-435c-a49d-c5dd26d35f45" />
